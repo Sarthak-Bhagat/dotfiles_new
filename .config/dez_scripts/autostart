@@ -2,6 +2,7 @@
 
 qbittorrent &
 vesktop &
-keepassxc &
+sleep 10; keepassxc &
+kdeconnect-indicator &
 nm-applet --indicator &
 variety -n &
