@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+qbittorrent &
+vesktop &
+keepassxc &
+nm-applet --indicator &
+variety -n &

@@ -1,0 +1,16 @@
+[Unit]
+Description=A simple and fast anti-censorship tool written in Go 
+ConditionFileIsExecutable=/usr/bin/spoof-dpi
+
+
+[Service]
+StartLimitInterval=5
+StartLimitBurst=10
+ExecStart=spoof-dpi --port 8999 --debug -dns-addr 127.0.0.1 -dns-port 53 -system-proxy
+After=dnscrypt-proxy.service
+WorkingDirectory=/home/dez
+Restart=always
+RestartSec=120
+
+[Install]
+WantedBy=multi-user.target
