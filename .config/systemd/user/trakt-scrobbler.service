@@ -1,9 +1,0 @@
-[Unit]
-Description=Trakt Scrobbler Service
-After=default.target
-
-[Service]
-ExecStart="/home/dez/.local/bin/trakts" run
-
-[Install]
-WantedBy=default.target
