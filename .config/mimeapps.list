@@ -1,0 +1,33 @@
+[Default Applications]
+application/x-7z-compressed=org.gnome.FileRoller.desktop
+x-scheme-handler/http=zen-browser-optimized.desktop
+x-scheme-handler/https=zen-browser-optimized.desktop
+x-scheme-handler/chrome=zen-browser-optimized.desktop
+text/html=zen-browser-optimized.desktop
+application/x-extension-htm=zen-browser-optimized.desktop
+application/x-extension-html=zen-browser-optimized.desktop
+application/x-extension-shtml=zen-browser-optimized.desktop
+application/xhtml+xml=zen-browser-optimized.desktop
+application/x-extension-xhtml=zen-browser-optimized.desktop
+application/x-extension-xht=zen-browser-optimized.desktop
+text/plain=neovide.desktop
+text/css=neovide.desktop
+application/json=neovide.desktop
+image/png=org.kde.gwenview.desktop
+
+[Added Associations]
+application/x-7z-compressed=org.gnome.FileRoller.desktop;
+x-scheme-handler/http=zen-browser-optimized.desktop;userapp-Zen Browser-2KJUS2.desktop;
+x-scheme-handler/https=zen-browser-optimized.desktop;userapp-Zen Browser-2KJUS2.desktop;
+x-scheme-handler/chrome=zen-browser-optimized.desktop;userapp-Zen Browser-2KJUS2.desktop;
+text/html=zen-browser-optimized.desktop;userapp-Zen Browser-2KJUS2.desktop;
+application/x-extension-htm=zen-browser-optimized.desktop;userapp-Zen Browser-2KJUS2.desktop;
+application/x-extension-html=zen-browser-optimized.desktop;userapp-Zen Browser-2KJUS2.desktop;
+application/x-extension-shtml=zen-browser-optimized.desktop;userapp-Zen Browser-2KJUS2.desktop;
+application/xhtml+xml=zen-browser-optimized.desktop;userapp-Zen Browser-2KJUS2.desktop;
+application/x-extension-xhtml=zen-browser-optimized.desktop;userapp-Zen Browser-2KJUS2.desktop;
+application/x-extension-xht=zen-browser-optimized.desktop;userapp-Zen Browser-2KJUS2.desktop;
+text/plain=neovide.desktop;
+text/css=neovide.desktop;
+application/json=neovide.desktop;
+image/png=org.kde.gwenview.desktop;
