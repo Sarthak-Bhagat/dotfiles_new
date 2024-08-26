@@ -1,0 +1,54 @@
+#!/bin/bash
+
+# Function to install Nvidia drivers and utilities
+install_nvidia() {
+    echo "Installing Nvidia drivers and utilities..."
+    sudo pacman -S --noconfirm --needed nvidia-dkms nvidia-settings nvidia-utils lib32-nvidia-utils lib32-opencl-nvidia opencl-nvidia libvdpau lib32-libvdpau libxnvctrl vulkan-icd-loader lib32-vulkan-icd-loader vkd3d lib32-vkd3d opencl-headers opencl-clhpp vulkan-validation-layers lib32-vulkan-validation-layers
+    
+    echo "Opening Arch Wiki for Nvidia Wayland support information..."
+    xdg-open "https://wiki.archlinux.org/title/User:SilentGamePLS#Wayland_support_will_work_fine_if_you_have_an_NVIDIA_RTX_20/30/40_series_GPU's._There_might_be_issues_on_GTX_10_GPU's_and_below:"
+    
+    echo "Setting up Nvidia hook..."
+    sudo mkdir -p /etc/pacman.d/hooks/
+    sudo mv $HOME/.config/nvidia.hook /etc/pacman.d/hooks/
+}
+
+# Function to install and set up Paru AUR helper
+install_paru() {
+    echo "Installing Paru AUR helper..."
+    sudo pacman -S --needed --noconfirm base-devel git
+    git clone https://aur.archlinux.org/paru.git
+    cd paru
+    makepkg -si --noconfirm
+    cd ..
+    rm -rf paru
+}
+
+# Function to install additional packages
+install_packages() {
+    echo "Installing additional packages..."
+    paru -S --needed --noconfirm sonarr-develop radarr-develop jackett-bin flaresolverr-bin zen-browser-optimized-bin neovim neovide mpv mpc mpd vesktop-bin steam protonup-qt-bin lutris qbittorrent keepassxc kitty nwg-look-bin nemo sqlitebrowser stacer-bin qt5ct qt6ct calibre jdownloader2
+}
+
+# Main script
+echo "Bootstrapping"
+
+# Ask if user wants to install Nvidia stuff
+read -p "Do you want to install Nvidia drivers and utilities? (y/n): " install_nvidia_choice
+if [[ $install_nvidia_choice =~ ^[Yy]$ ]]; then
+    install_nvidia
+fi
+
+# Install Paru
+if ! command -v paru &> /dev/null; then
+  install_paru
+else
+    echo "Paru is installed."
+fi
+# Ask if user wants to install additional packages
+read -p "Do you want to install additional packages? (y/n): " install_packages_choice
+if [[ $install_packages_choice =~ ^[Yy]$ ]]; then
+    install_packages
+fi
+
+echo "Script execution completed!"

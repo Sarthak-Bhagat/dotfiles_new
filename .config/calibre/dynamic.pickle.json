@@ -1,0 +1,29 @@
+{
+  "catalogs_to_be_synced": {
+    "__class__": "set",
+    "__value__": []
+  },
+  "database location dialog": "/home/dez/Documents/Calibre",
+  "library_delete_books_again": true,
+  "sort_history": [
+    [
+      "ondevice",
+      true
+    ],
+    [
+      "title",
+      true
+    ],
+    [
+      "ondevice",
+      true
+    ],
+    [
+      "timestamp",
+      false
+    ]
+  ],
+  "systray_msg": true,
+  "welcome_wizard_device": "smartphone",
+  "welcome_wizard_was_run": true
+}
