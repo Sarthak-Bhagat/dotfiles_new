@@ -14,9 +14,11 @@ create_symlink() {
     if [ -e "$full_dest" ]; then
         # If it's a symlink, remove it
         if [ -L "$full_dest" ]; then
+          echo "It's a symlink, deleting."
             sudo rm "$full_dest"
         # If it's an empty directory, remove it
         elif [ -d "$full_dest" ] && [ -z "$(ls -A "$full_dest")" ]; then
+          echo "Empty Folder, deleting"
             sudo rmdir "$full_dest"
         else
             echo "Warning: $full_dest exists and is not a symlink or empty directory. Skipping."
