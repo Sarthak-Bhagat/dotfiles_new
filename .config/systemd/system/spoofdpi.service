@@ -4,7 +4,7 @@ After=network.target dnscrypt-proxy.service
 Wants=dnscrypt-proxy.service
 
 [Service]
-ExecStart=/usr/bin/spoof-dpi -port 8999 -dns-addr 127.0.0.1 -dns-port 53
+ExecStart=/usr/bin/spoofdpi -port 8999 -dns-addr 127.0.0.1 -dns-port 53
 Restart=on-failure
 RestartSec=5
 

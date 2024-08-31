@@ -12,8 +12,8 @@
         "on-click-middle": "",
         "on-click-right": "",
         "on-update": "",
-        "on-scroll-up": "light -A 5%",
-        "on-scroll-down": "light -U 5%",
+        "on-scroll-up": "~/.config/dez_scripts/brightness --inc",
+        "on-scroll-down": "~/.config/dez_scripts/brightness --dec",
         "smooth-scrolling-threshold": 1,
     },
 

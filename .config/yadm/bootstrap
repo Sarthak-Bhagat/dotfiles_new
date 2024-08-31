@@ -27,7 +27,7 @@ install_paru() {
 # Function to install additional packages
 install_packages() {
     echo "Installing additional packages..."
-    paru -S --needed --noconfirm sonarr-develop radarr-develop jackett-bin flaresolverr-bin zen-browser-optimized-bin neovim neovide mpv mpc mpd vesktop-bin steam protonup-qt-bin lutris qbittorrent keepassxc kitty nwg-look-bin nemo sqlitebrowser stacer-bin qt5ct qt6ct calibre jdownloader2
+    paru -S --needed --noconfirm sonarr-develop radarr-develop jackett-bin flaresolverr-bin zen-browser-bin neovim neovide mpv mpc mpd vesktop-bin steam protonup-qt-bin lutris qbittorrent keepassxc kitty nwg-look-bin nemo sqlitebrowser stacer-bin qt5ct qt6ct calibre jdownloader2 gamemode gamescope mangohud librewolf-bin grimshot
 }
 
 # Main script
@@ -50,5 +50,12 @@ read -p "Do you want to install additional packages? (y/n): " install_packages_c
 if [[ $install_packages_choice =~ ^[Yy]$ ]]; then
     install_packages
 fi
+
+sudo systemctl enable --now sonarr
+sudo systemctl enable --now radarr
+sudo systemctl enable --now jackett
+sudo systemctl enable --now flaresolverr
+sudo cp $HOME/.config/dnscrypt-proxy/dnscrypt-proxy.toml /etc/dnscrypt-proxy/dnscrypt-proxy.toml
+sudo systemctl enable --now dnscrypt-proxy
 
 echo "Script execution completed!"

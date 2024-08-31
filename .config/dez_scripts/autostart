@@ -5,5 +5,5 @@ vesktop &
 sleep 10; keepassxc &
 kdeconnect-indicator &
 nm-applet --indicator &
-steam-runtime -silent &
+# steam-runtime -silent &
 variety -n &
