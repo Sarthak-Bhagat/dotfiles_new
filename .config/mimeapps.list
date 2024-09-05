@@ -17,6 +17,8 @@ image/png=org.kde.gwenview.desktop
 inode/directory=nemo.desktop
 application/x-gnome-saved-search=nemo.desktop
 x-scheme-handler/discord-1184796349334552576=discord-1184796349334552576.desktop
+x-scheme-handler/discord-831593107883032657=discord-831593107883032657.desktop
+x-scheme-handler/rpgmakermp=nwjsoptions.desktop
 
 [Added Associations]
 application/x-7z-compressed=org.gnome.FileRoller.desktop;

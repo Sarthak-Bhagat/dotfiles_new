@@ -22,6 +22,8 @@ swaylock -f \
 	--show-failed-attempts \
 	--hide-keyboard-layout \
 	--indicator-caps-lock \
+	--clock \
+	--indicator \
 	\
 	`# Appearance` \
 	--color ${bg}FF \

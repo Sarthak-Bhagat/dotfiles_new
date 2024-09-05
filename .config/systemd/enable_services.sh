@@ -53,6 +53,7 @@ for item in *; do
                         echo -e "${BLUE}$service_name is already disabled${NC}"
                     fi
                 else
+                    $systemctl_cmd daemon-reload
                     $systemctl_cmd enable "$service_name"
                     echo -e "${GREEN}Enabled $service_name${NC}"
                 fi

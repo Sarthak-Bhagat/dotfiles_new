@@ -235,15 +235,15 @@
   },
   "geometry-of-calibre_main_window_geometry": {
     "frame_geometry": {
-      "height": 1042,
-      "width": 1916,
+      "height": 1080,
+      "width": 1920,
       "x": 0,
       "y": 0
     },
     "full_screened": false,
     "geometry": {
-      "height": 1042,
-      "width": 1916,
+      "height": 1080,
+      "width": 1920,
       "x": 0,
       "y": 0
     },
@@ -256,7 +256,7 @@
     },
     "qt": {
       "__class__": "bytearray",
-      "__value__": "AdnQywADAAAAAAAAAAAAAAAAB3sAAAQRAAAAAAAAAAAAAAd7AAAEEQAAAAACAAAAB4AAAAAAAAAAAAAAB3sAAAQR"
+      "__value__": "AdnQywADAAAAAAAAAAAAAAAAB38AAAQ3AAAAAAAAAAAAAAd7AAAEEQAAAAACAAAAB4AAAAAAAAAAAAAAB38AAAQ3"
     },
     "screen": {
       "depth": 32,
@@ -596,7 +596,7 @@
     "__value__": "AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAArEAAAAFAQEBAAAAAAAAAAAAAAAAAGT/////AAAAhAAAAAAAAAAFAAAAZAAAAAEAAAAAAAAAmwAAAAEAAAAAAAAAeQAAAAEAAAAAAAAAZAAAAAEAAAAAAAAA1QAAAAEAAAAAAAAD6AAAAAAAAAAAAA=="
   },
   "library_usage_stats": {
-    "/home/dez/Documents/Calibre": 11
+    "/home/dez/Documents/Calibre": 13
   },
   "light_palette_name": "",
   "light_palettes": {
