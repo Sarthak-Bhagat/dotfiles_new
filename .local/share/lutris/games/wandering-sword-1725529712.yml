@@ -1,0 +1,10 @@
+game:
+  exe: /home/dez/Games/HDD/Wandering Sword/Wandering Sword.exe
+wine:
+  battleye: false
+  dxvk: false
+  eac: false
+  esync: false
+  fsr: false
+  version: system
+  vkd3d: false

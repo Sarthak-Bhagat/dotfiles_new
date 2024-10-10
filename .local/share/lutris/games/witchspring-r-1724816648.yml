@@ -1,0 +1,18 @@
+game:
+  exe: /home/dez/Games/HDD/WitchSpring R/WitchSpringR.exe
+system:
+  disable_runtime: true
+  gamemode: true
+  gamescope: false
+  gamescope_window_mode: -b
+  gpu: card0
+  mangohud: false
+  prefer_system_libs: false
+wine:
+  battleye: false
+  dxvk: false
+  eac: false
+  esync: false
+  fsr: false
+  fsync: true
+  vkd3d: false

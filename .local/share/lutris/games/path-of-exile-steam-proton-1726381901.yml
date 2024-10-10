@@ -1,0 +1,12 @@
+game:
+  appid: '238960'
+game_slug: path-of-exile
+name: Path of Exile
+script:
+  game:
+    appid: 238960
+service: steam
+service_id: '238960'
+slug: path-of-exile-steam-proton
+version: Steam Proton
+year: 2013

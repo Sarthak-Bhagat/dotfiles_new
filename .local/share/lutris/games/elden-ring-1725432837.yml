@@ -1,0 +1,14 @@
+game:
+  exe: /home/dez/Games/SSD/ELDEN RING/ersc_launcher.exe
+system:
+  gamemode: false
+  gamescope_window_mode: -b
+  gpu: card0
+wine:
+  battleye: false
+  dxvk: false
+  eac: true
+  esync: false
+  fsr: false
+  version: GE-Proton9-11
+  vkd3d: true

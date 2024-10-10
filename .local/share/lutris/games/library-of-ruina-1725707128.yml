@@ -1,0 +1,10 @@
+game:
+  exe: /home/dez/Games/HDD/Library Of Ruina/LibraryOfRuina.exe
+wine:
+  battleye: false
+  dxvk: false
+  eac: false
+  esync: false
+  fsr: false
+  version: wine-ge-8-26-x86_64
+  vkd3d: false

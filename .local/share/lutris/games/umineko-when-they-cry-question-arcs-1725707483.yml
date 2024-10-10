@@ -1,0 +1,13 @@
+game:
+  exe: /home/dez/Games/HDD/Umineko/onscripter-ru.exe
+system:
+  env:
+    SDL_VIDEODRIVER: ''
+wine:
+  battleye: false
+  dxvk: false
+  eac: false
+  esync: false
+  fsr: false
+  version: GE-Proton9-11
+  vkd3d: false

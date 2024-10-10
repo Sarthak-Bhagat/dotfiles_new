@@ -1,0 +1,9 @@
+game:
+  exe: /home/dez/Games/HDD/ZERO Sievert/ZERO Sievert.exe
+wine:
+  battleye: false
+  dxvk: false
+  eac: false
+  esync: false
+  fsr: false
+  vkd3d: false

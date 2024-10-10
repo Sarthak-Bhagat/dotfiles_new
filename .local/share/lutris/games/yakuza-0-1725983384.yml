@@ -1,0 +1,10 @@
+game:
+  exe: /home/dez/Games/SSD/Yakuza 0/Yakuza0.exe
+wine:
+  battleye: false
+  dxvk: false
+  eac: false
+  esync: false
+  fsr: false
+  fsync: true
+  vkd3d: false

@@ -1,0 +1,15 @@
+game:
+  exe: /mnt/Secondary/Games/Tiny Rogues/Tiny Rogues.exe
+system:
+  gamemode: false
+  gamescope: false
+  gpu: card0
+wine:
+  battleye: false
+  dxvk: false
+  eac: false
+  esync: false
+  fsr: false
+  fsync: true
+  version: wine-ge-8-26-x86_64
+  vkd3d: false
