@@ -7,6 +7,7 @@ $directory\
 $git_branch\
 $git_status\
 [](fg:#394260 bg:#212736)\
+$python\
 $nodejs\
 $rust\
 $golang\
@@ -62,3 +63,9 @@ disabled = false
 time_format = "%R" # Hour:Minute Format
 style = "bg:#1d2230"
 format = '[[  $time ](fg:#a0a9cb bg:#1d2230)]($style)'
+
+[python]
+symbol = ""
+style = "bg:#4c566a"
+format = '[[ $symbol ($version) (${virtualenv}) ](fg:#8fd4ff bg:#4c566a)]($style)'
+python_binary = ["python3", "python"]

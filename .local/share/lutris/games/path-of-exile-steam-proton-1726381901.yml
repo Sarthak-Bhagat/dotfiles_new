@@ -8,5 +8,9 @@ script:
 service: steam
 service_id: '238960'
 slug: path-of-exile-steam-proton
+system:
+  disable_runtime: false
+  gamemode: true
+  gpu: card0
 version: Steam Proton
 year: 2013

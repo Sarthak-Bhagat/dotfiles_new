@@ -81,7 +81,7 @@ fi
 
 # Clone the repository and checkout the branch
 CLONE_DIR=$(mktemp -d)
-git clone --single-branch --branch "$BRANCH" "https://$GITHUB_TOKEN@github.com/$GITHUB_REPO.git" "$CLONE_DIR"
+git clone --single-branch --branch "$BRANCH" "git@github.com:$GITHUB_REPO.git" "$CLONE_DIR"
 cd "$CLONE_DIR"
 
 # Replace the old file with the new one from the temp directory

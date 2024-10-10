@@ -1,10 +1,19 @@
 {
+  "add books dialog dir": "/home/dez/Downloads/FF_Downloads",
+  "add books dialog dir-last-used-filter-spec-all-files": false,
   "catalogs_to_be_synced": {
     "__class__": "set",
     "__value__": []
   },
   "database location dialog": "/home/dez/Documents/Calibre",
   "library_delete_books_again": true,
+  "notified-version-updates": {
+    "__class__": "set",
+    "__value__": [
+      "7.18"
+    ]
+  },
+  "recursive book import root dir dialog": "/home/dez/Downloads/Torrents/myanonymouse",
   "sort_history": [
     [
       "ondevice",
