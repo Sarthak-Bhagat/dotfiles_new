@@ -1,10 +1,31 @@
 #!/usr/bin/env bash
 
-qbittorrent &
-vesktop &
-sleep 10; keepassxc &
-kdeconnect-indicator &
-nm-applet --indicator &
-steam-runtime -silent &
-variety -n &
-~/.config/dez_scripts/statusbar &
+# qbittorrent &
+# vesktop &
+# sleep 10; keepassxc &
+# kdeconnect-indicator &
+# # nm-applet --indicator &
+# steam-runtime -silent &
+# variety -n &
+# ~/.config/dez_scripts/statusbar &
+
+# Function to launch application
+launch() {
+    nohup "$@" >/dev/null 2>&1 &
+    disown
+}
+
+# Launch applications
+launch qbittorrent
+# launch keepassxc
+launch kdeconnect-indicator
+# launch nm-applet --indicator
+launch steam-runtime -silent
+launch albert
+launch variety -n
+launch ~/.config/dez_scripts/statusbar
+launch betterbird
+launch vesktop
+
+# Exit the script
+exit 0

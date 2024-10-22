@@ -10,7 +10,8 @@
   "notified-version-updates": {
     "__class__": "set",
     "__value__": [
-      "7.18"
+      "7.18",
+      "7.19"
     ]
   },
   "recursive book import root dir dialog": "/home/dez/Downloads/Torrents/myanonymouse",

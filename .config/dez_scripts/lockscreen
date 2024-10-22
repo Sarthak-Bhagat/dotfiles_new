@@ -6,7 +6,7 @@
 ## ArcoLinux uses ArchLinux-logout
 
 # Background Image
-IMAGE="~/Documents/git/dotfiles/Pictures/wallpapers/wallhaven-1px99v.png"
+IMAGE="~/Pictures/wallpapers/wallhaven-1px99v.png"
 
 # Colors
 bg='1E212A'		bgl='2D3039'		fg='E0DEF4'

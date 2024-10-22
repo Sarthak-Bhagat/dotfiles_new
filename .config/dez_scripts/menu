@@ -1,16 +1,12 @@
 #!/usr/bin/env bash
 
-## Copyright (C) 2020-2022 Aditya Shakya <adi1090x@gmail.com>
-## Everyone is permitted to copy and distribute copies of this file under GNU-GPL3
-
-## launch wofi with alt config
-
-CONFIG="$HOME/.config/wayfire/wofi/config.ini"
-STYLE="$HOME/.config/wayfire/wofi/style.css"
-COLORS="$HOME/.config/wayfire/wofi/colors"
-
-if [[ ! `pidof wofi` ]]; then
-	wofi --show drun --prompt 'Search Applications' --conf ${CONFIG} --style ${STYLE} --color ${COLORS}
+# Check if albert is running using pgrep
+if pgrep -x "albert" > /dev/null; then
+    # If albert is running, just show it
+    albert show
 else
-	pkill wofi
+    # If albert is not running, start it and show it
+    albert & # Start albert in background
+    sleep 0.5 # Give it a moment to start
+    albert show
 fi

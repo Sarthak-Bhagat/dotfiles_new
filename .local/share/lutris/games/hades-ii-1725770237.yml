@@ -1,7 +1,7 @@
 game:
   exe: /home/dez/Games/SSD/Hades II/Ship/Hades2.exe
 system:
-  gpu: card0
+  gpu: card1
 wine:
   battleye: false
   dxvk: false
@@ -9,5 +9,5 @@ wine:
   esync: false
   fsr: false
   fsync: true
-  version: GE-Proton9-11
+  version: GE-Proton9-16
   vkd3d: false
