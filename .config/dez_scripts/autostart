@@ -15,6 +15,9 @@ launch() {
     disown
 }
 
+# Start Nvidia Card
+nvx on
+
 # Launch applications
 launch qbittorrent
 # launch keepassxc

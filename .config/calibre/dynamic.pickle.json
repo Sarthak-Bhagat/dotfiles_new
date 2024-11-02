@@ -5,23 +5,120 @@
     "__class__": "set",
     "__value__": []
   },
+  "choose library location": "/mnt/Secondary/Documents/Calibre",
   "database location dialog": "/home/dez/Documents/Calibre",
+  "geometry-of-catalog_window_geom": {
+    "frame_geometry": {
+      "height": 1030,
+      "width": 1850,
+      "x": 0,
+      "y": 0
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 1030,
+      "width": 1850,
+      "x": 0,
+      "y": 0
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 1030,
+      "width": 1850,
+      "x": 0,
+      "y": 0
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAAAAAAAAAAABzkAAAQFAAAAAAAAAAAAAAc5AAAEBQAAAAAAAAAAB4AAAAAAAAAAAAAABzkAAAQF"
+    },
+    "screen": {
+      "depth": 32,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 1080,
+        "width": 1920,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "AU Optronics",
+      "model": "0xD1ED",
+      "name": "eDP-1",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 1080,
+        "width": 1920
+      },
+      "virtual_geometry": {
+        "height": 1080,
+        "width": 1920,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
   "library_delete_books_again": true,
   "notified-version-updates": {
     "__class__": "set",
     "__value__": [
       "7.18",
-      "7.19"
+      "7.19",
+      "7.20"
     ]
   },
-  "recursive book import root dir dialog": "/home/dez/Downloads/Torrents/myanonymouse",
+  "recursive book import root dir dialog": "/home/dez/Documents/Calibre",
   "sort_history": [
+    [
+      "pubdate",
+      true
+    ],
+    [
+      "languages",
+      true
+    ],
     [
       "ondevice",
       true
     ],
     [
-      "title",
+      "timestamp",
+      false
+    ],
+    [
+      "pubdate",
+      true
+    ],
+    [
+      "languages",
+      true
+    ],
+    [
+      "ondevice",
+      true
+    ],
+    [
+      "timestamp",
+      false
+    ],
+    [
+      "pubdate",
+      true
+    ],
+    [
+      "languages",
+      true
+    ],
+    [
+      "ondevice",
+      true
+    ],
+    [
+      "pubdate",
+      true
+    ],
+    [
+      "languages",
       true
     ],
     [

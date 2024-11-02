@@ -1,7 +1,7 @@
 [Added Associations]
 application/epub+zip=calibre-ebook-viewer.desktop;
 application/json=neovide.desktop;
-application/octet-stream=wine-extension-msp.desktop;
+application/octet-stream=wine-extension-msp.desktop;userapp-subl-5PA5V2.desktop;
 application/vnd.openxmlformats-officedocument.wordprocessingml.document=onlyoffice-desktopeditors.desktop;
 application/x-7z-compressed=org.gnome.FileRoller.desktop;
 application/x-bittorrent=org.qbittorrent.qBittorrent.desktop;
@@ -24,6 +24,8 @@ x-scheme-handler/https=zen-browser-optimized.desktop;userapp-Zen Browser-2KJUS2.
 x-scheme-handler/mailto=userapp-Thunderbird-VI64U2.desktop;
 x-scheme-handler/mid=userapp-Thunderbird-VI64U2.desktop;
 x-scheme-handler/tonsite=org.telegram.desktop.desktop;
+image/vnd.zbrush.pcx=userapp-subl-H309V2.desktop;
+
 [Default Applications]
 application/epub+zip=calibre-ebook-viewer.desktop;
 application/json=neovide.desktop;
@@ -60,3 +62,5 @@ x-scheme-handler/mailto=userapp-Thunderbird-VI64U2.desktop;
 x-scheme-handler/mid=userapp-Thunderbird-VI64U2.desktop;
 x-scheme-handler/rpgmakermp=nwjsoptions.desktop;
 x-scheme-handler/tonsite=org.telegram.desktop.desktop;
+application/octet-stream=userapp-subl-5PA5V2.desktop
+image/vnd.zbrush.pcx=userapp-subl-H309V2.desktop

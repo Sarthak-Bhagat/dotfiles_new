@@ -9,5 +9,5 @@ wine:
   eac: false
   esync: false
   fsr: false
-  version: GE-Proton9-11
+  version: GE-Proton (Latest)
   vkd3d: false
