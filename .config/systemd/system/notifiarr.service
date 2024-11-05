@@ -1,0 +1,22 @@
+[Unit]
+Description=Notifiarr - Official chat integration client for Notifiarr.com
+After=network.target
+
+[Service]
+Type=simple
+User=notifiarr
+Group=notifiarr
+ExecStart=/usr/bin/notifiarr
+Restart=on-failure
+RestartSec=5
+
+Environment=DN_QUIET=true
+Environment=DN_LOG_FILE=/var/log/notifiarr/app.log
+Environment=DN_HTTP_LOG=/var/log/notifiarr/http.log
+Environment=DN_SERVICES_LOG_FILE=/var/log/notifiarr/services.log
+
+EnvironmentFile=-/etc/default/notifiarr
+EnvironmentFile=-/etc/sysconfig/notifiarr
+
+[Install]
+WantedBy=multi-user.target
