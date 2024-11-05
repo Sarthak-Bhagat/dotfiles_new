@@ -1,0 +1,133 @@
+{
+  "geometry-of-main_window_geometry": {
+    "frame_geometry": {
+      "height": 720,
+      "width": 640,
+      "x": 0,
+      "y": 0
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 720,
+      "width": 640,
+      "x": 0,
+      "y": 0
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 720,
+      "width": 640,
+      "x": 0,
+      "y": 0
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAAAAAAAAAAAAn8AAALPAAAAAAAAAAAAAAJ/AAACzwAAAAAAAAAAB4AAAAAAAAAAAAAAAn8AAALP"
+    },
+    "screen": {
+      "depth": 32,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 1080,
+        "width": 1920,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "AU Optronics",
+      "model": "0xD1ED",
+      "name": "eDP-1",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 1080,
+        "width": 1920
+      },
+      "virtual_geometry": {
+        "height": 1080,
+        "width": 1920,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "main_window_state": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAH9AAAAAgAAAAAAAAEAAAAC0PwCAAAAAvsAAAAQAHQAbwBjAC0AZABvAGMAawAAAAAAAAAC0AAAAIwA////+wAAABYAcwBlAGEAcgBjAGgALQBkAG8AYwBrAAAAAAD/////AAAAnQD///8AAAABAAAAAAAAAAD8AgAAAAT7AAAAFgBsAG8AbwBrAHUAcAAtAGQAbwBjAGsAAAAAAP////8AAACHAP////sAAAAcAGIAbwBvAGsAbQBhAHIAawBzAC0AZABvAGMAawAAAAAA/////wAAAPgA////+wAAABwAaQBuAHMAcABlAGMAdABvAHIALQBkAG8AYwBrAAAAAAD/////AAAAFQD////7AAAAHgBoAGkAZwBoAGwAaQBnAGgAdABzAC0AZABvAGMAawAAAAAA/////wAAANsA////AAACgAAAAtAAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAAAAAAAAQAAAB4AYQBjAHQAaQBvAG4AcwBfAHQAbwBvAGwAYgBhAHICAAAAAP////8AAAAAAAAAAA=="
+  },
+  "old_prefs_migrated": true,
+  "session_data": {
+    "controls_help_shown_count": 2,
+    "standalone_font_settings": {},
+    "standalone_misc_settings": {
+      "remember_last_read": true,
+      "remember_window_geometry": false,
+      "save_annotations_in_ebook": true,
+      "singleinstance": false
+    },
+    "standalone_recently_opened": [
+      {
+        "authors": [
+          "Allison Saft"
+        ],
+        "key": "/home/dez/Documents/Calibre/Allison Saft/A Far Wilder Magic (665)/A Far Wilder Magic - Allison Saft.original_epub",
+        "pathtoebook": "/home/dez/Documents/Calibre/Allison Saft/A Far Wilder Magic (665)/A Far Wilder Magic - Allison Saft.original_epub",
+        "timestamp": "2024-10-23T14:04:30.081Z",
+        "title": "A Far Wilder Magic"
+      },
+      {
+        "authors": [
+          "Nick Jones"
+        ],
+        "key": "/home/dez/Documents/Calibre/Nick Jones/And Then She Vanished (1766)/And Then She Vanished - Nick Jones.epub",
+        "pathtoebook": "/home/dez/Documents/Calibre/Nick Jones/And Then She Vanished (1766)/And Then She Vanished - Nick Jones.epub",
+        "timestamp": "2024-10-22T19:34:47.588Z",
+        "title": "And Then She Vanished"
+      },
+      {
+        "authors": [
+          "Anonymous"
+        ],
+        "key": "/mnt/Secondary/Downloads/Torrents/myanonymouse/Dreamscape (My Diary Desu)/Dreamscape (My Diary Desu) - Anonymous.epub",
+        "pathtoebook": "/mnt/Secondary/Downloads/Torrents/myanonymouse/Dreamscape (My Diary Desu)/Dreamscape (My Diary Desu) - Anonymous.epub",
+        "timestamp": "2024-10-22T19:30:40.550Z",
+        "title": "Dreamscape: My Diary Desu"
+      },
+      {
+        "authors": [
+          "melmonella"
+        ],
+        "key": "/home/dez/Downloads/FF_Downloads/Reach Heaven Via Feng Shui Engineering.epub",
+        "pathtoebook": "/home/dez/Downloads/FF_Downloads/Reach Heaven Via Feng Shui Engineering.epub",
+        "timestamp": "2024-09-05T08:28:24.061Z",
+        "title": "Reach Heaven Via Feng Shui Engineering"
+      },
+      {
+        "authors": [
+          "Miya Kazuki"
+        ],
+        "key": "/mnt/Secondary/Downloads/Torrents/Ascendance of a Bookworm (J-Novel Club) [Kinoworm]/Ascendance of a Bookworm Part 01 - v01 (J-Novel Club) (Premium).epub",
+        "pathtoebook": "/mnt/Secondary/Downloads/Torrents/Ascendance of a Bookworm (J-Novel Club) [Kinoworm]/Ascendance of a Bookworm Part 01 - v01 (J-Novel Club) (Premium).epub",
+        "timestamp": "2024-09-04T14:57:44.014Z",
+        "title": "Ascendance of a Bookworm: Part 1 Daughter of a Soldier Volume 1"
+      },
+      {
+        "authors": [
+          "Miya Kazuki"
+        ],
+        "key": "/home/dez/Documents/Calibre/Miya Kazuki/Ascendance of A Bookworm Part 1 Vol (1760)/Ascendance of A Bookworm Part 1 - Miya Kazuki.epub",
+        "pathtoebook": "/home/dez/Documents/Calibre/Miya Kazuki/Ascendance of A Bookworm Part 1 Vol (1760)/Ascendance of A Bookworm Part 1 - Miya Kazuki.epub",
+        "timestamp": "2024-09-04T14:40:54.680Z",
+        "title": "Ascendance of A Bookworm Part 1 Volume 1"
+      },
+      {
+        "authors": [
+          "Mark Twain"
+        ],
+        "key": "/home/dez/Documents/Calibre/Mark Twain/The Adventures of Huckleberry Finn (1315)/The Adventures of Huckleberry F - Mark Twain.epub",
+        "pathtoebook": "/home/dez/Documents/Calibre/Mark Twain/The Adventures of Huckleberry Finn (1315)/The Adventures of Huckleberry F - Mark Twain.epub",
+        "timestamp": "2024-09-04T14:31:01.635Z",
+        "title": "The Adventures of Huckleberry Finn"
+      }
+    ]
+  }
+}
