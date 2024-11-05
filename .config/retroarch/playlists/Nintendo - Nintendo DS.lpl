@@ -1,0 +1,21 @@
+{
+  "version": "1.5",
+  "default_core_path": "",
+  "default_core_name": "",
+  "base_content_directory": "D|",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "thumbnail_match_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "/home/dez/Games/ROMs/NDS/Pokemon Mystery Dungeon - Explorers of Sky (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk).nds",
+      "label": "Pokemon Mystery Dungeon - Explorers of Sky (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk)",
+      "core_path": "/home/dez/.local/share/retroarch/cores/desmume_libretro.so",
+      "core_name": "Nintendo - DS (DeSmuME)",
+      "crc32": "64FFB444|crc",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    }
+  ]
+}

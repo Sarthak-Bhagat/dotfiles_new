@@ -1,0 +1,124 @@
+{
+  "version": "1.5",
+  "default_core_path": "/home/dez/.local/share/retroarch/cores/mgba_libretro.so",
+  "default_core_name": "Nintendo - Game Boy Advance (mGBA)",
+  "base_content_directory": "?y",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "thumbnail_match_mode": 0,
+  "sort_mode": 0,
+  "scan_content_dir": "/home/dez/Games/ROMs/GBA",
+  "scan_file_exts": "",
+  "scan_dat_file_path": "",
+  "scan_search_recursively": true,
+  "scan_search_archives": true,
+  "scan_filter_dat_content": false,
+  "scan_overwrite_playlist": false,
+  "items": [
+    {
+      "path": "/home/dez/Games/ROMs/GBA/Dragon Ball Z - The Legacy of Goku I & II (USA).gba",
+      "label": "2 Games in 1 - Dragon Ball Z - The Legacy of Goku I & II (USA)",
+      "core_path": "/home/dez/.local/share/retroarch/cores/mgba_libretro.so",
+      "core_name": "Nintendo - Game Boy Advance (mGBA)",
+      "crc32": "ACE78C4F|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/home/dez/Games/ROMs/GBA/Advance Wars (USA) (Rev 1).gba",
+      "label": "Advance Wars (USA) (Rev 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "26FD0FC9|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/home/dez/Games/ROMs/GBA/Dragon Ball Z - Buu's Fury (USA).gba",
+      "label": "Dragon Ball Z - Buu's Fury (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "01C1707F|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/home/dez/Games/ROMs/GBA/Final Fantasy I & II - Dawn of Souls (USA).gba",
+      "label": "Final Fantasy I & II - Dawn of Souls (USA)",
+      "core_path": "/home/dez/.local/share/retroarch/cores/mgba_libretro.so",
+      "core_name": "Nintendo - Game Boy Advance (mGBA)",
+      "crc32": "1B39CDAB|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/home/dez/Games/ROMs/GBA/Final Fantasy Tactics Advance.gba",
+      "label": "Final Fantasy Tactics Advance",
+      "core_path": "/home/dez/.local/share/retroarch/cores/mgba_libretro.so",
+      "core_name": "Nintendo - Game Boy Advance (mGBA)",
+      "crc32": "BA5DE047|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/home/dez/Games/ROMs/GBA/Fire Emblem - the Sacred Stones # GBA.GBA",
+      "label": "Fire Emblem - The Sacred Stones (USA, Australia)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A47246AE|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/home/dez/Games/ROMs/GBA/Fire Emblem - Vision Quest.GBA",
+      "label": "Fire Emblem - Vision Quest",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/home/dez/Games/ROMs/GBA/Harvest Moon - Friends of Mineral Town (USA).gba",
+      "label": "Harvest Moon - Friends of Mineral Town (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8E923168|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/home/dez/Games/ROMs/GBA/Iridion II (USA).gba",
+      "label": "Iridion II (USA)",
+      "core_path": "/home/dez/.local/share/retroarch/cores/mgba_libretro.so",
+      "core_name": "Nintendo - Game Boy Advance (mGBA)",
+      "crc32": "DD8A7104|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/home/dez/Games/ROMs/GBA/Legend of Zelda, The - The Minish Cap (USA).gba",
+      "label": "Legend of Zelda, The - The Minish Cap (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "ABCEBBB1|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/home/dez/Games/ROMs/GBA/Pokemon Unbound.gba",
+      "label": "Pokemon Unbound",
+      "core_path": "/home/dez/.local/share/retroarch/cores/mgba_libretro.so",
+      "core_name": "Nintendo - Game Boy Advance (mGBA)",
+      "crc32": "4B3D4957|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/home/dez/Games/ROMs/GBA/Sword of Mana (USA, Australia).gba",
+      "label": "Sword of Mana (USA, Australia)",
+      "core_path": "/home/dez/.local/share/retroarch/cores/mgba_libretro.so",
+      "core_name": "Nintendo - Game Boy Advance (mGBA)",
+      "crc32": "7F1EAC75|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/home/dez/Games/ROMs/GBA/Tactics Ogre - The Knight of Lodis (USA).gba",
+      "label": "Tactics Ogre - The Knight of Lodis (USA)",
+      "core_path": "/home/dez/.local/share/retroarch/cores/mgba_libretro.so",
+      "core_name": "Nintendo - Game Boy Advance (mGBA)",
+      "crc32": "6649D2CE|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    }
+  ]
+}

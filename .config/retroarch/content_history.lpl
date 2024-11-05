@@ -1,0 +1,164 @@
+{
+  "version": "1.5",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "thumbnail_match_mode": 0,
+  "sort_mode": 2,
+  "items": [
+    {
+      "path": "/home/dez/Games/ROMs/GBA/Final Fantasy Tactics Advance.gba",
+      "label": "Final Fantasy Tactics Advance",
+      "core_path": "/home/dez/.local/share/retroarch/cores/mgba_libretro.so",
+      "core_name": "Nintendo - Game Boy Advance (mGBA)",
+      "crc32": "BA5DE047|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/home/dez/Games/ROMs/GBA/Tactics Ogre - The Knight of Lodis (USA).gba",
+      "label": "Tactics Ogre - The Knight of Lodis (USA)",
+      "core_path": "/home/dez/.local/share/retroarch/cores/mgba_libretro.so",
+      "core_name": "Nintendo - Game Boy Advance (mGBA)",
+      "crc32": "6649D2CE|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/home/dez/Games/ROMs/PSP/Kurohyou - Ryu ga Gotoku Shinshou (Japan).iso",
+      "label": "Kurohyou - Ryu ga Gotoku Shinshou (Japan) (v1.02)",
+      "core_path": "/home/dez/.local/share/retroarch/cores/ppsspp_libretro.so",
+      "core_name": "Sony - PlayStation Portable (PPSSPP)",
+      "crc32": "NPJH-50333|serial",
+      "db_name": "Sony - PlayStation Portable.lpl"
+    },
+    {
+      "path": "/home/dez/Games/ROMs/GBA/Dragon Ball Z - The Legacy of Goku I & II (USA).gba",
+      "label": "2 Games in 1 - Dragon Ball Z - The Legacy of Goku I & II (USA)",
+      "core_path": "/home/dez/.local/share/retroarch/cores/mgba_libretro.so",
+      "core_name": "Nintendo - Game Boy Advance (mGBA)",
+      "crc32": "ACE78C4F|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/home/dez/Games/ROMs/GBA/Sword of Mana (USA, Australia).gba",
+      "label": "Sword of Mana (USA, Australia)",
+      "core_path": "/home/dez/.local/share/retroarch/cores/mgba_libretro.so",
+      "core_name": "Nintendo - Game Boy Advance (mGBA)",
+      "crc32": "7F1EAC75|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/home/dez/Games/ROMs/GBA/Final Fantasy I & II - Dawn of Souls (USA).gba",
+      "label": "Final Fantasy I & II - Dawn of Souls (USA)",
+      "core_path": "/home/dez/.local/share/retroarch/cores/mgba_libretro.so",
+      "core_name": "Nintendo - Game Boy Advance (mGBA)",
+      "crc32": "1B39CDAB|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/home/dez/Games/ROMs/GBA/Final Fantasy Tactics Advance (Europe) (En,Fr,De,Es,It).gba",
+      "label": "Final Fantasy Tactics Advance (Europe) (En,Fr,De,Es,It)",
+      "core_path": "/home/dez/.local/share/retroarch/cores/mgba_libretro.so",
+      "core_name": "Nintendo - Game Boy Advance (mGBA)",
+      "crc32": "BA5DE047|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/home/dez/Games/ROMs/GBA/Final Fantasy Tactics Advance (USA).gba",
+      "label": "Final Fantasy Tactics Advance (USA)",
+      "core_path": "/home/dez/.local/share/retroarch/cores/mgba_libretro.so",
+      "core_name": "Nintendo - Game Boy Advance (mGBA)",
+      "crc32": "5645E56C|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/home/dez/Games/ROMs/GBA/Iridion II (USA).gba",
+      "label": "Iridion II (USA)",
+      "core_path": "/home/dez/.local/share/retroarch/cores/mgba_libretro.so",
+      "core_name": "Nintendo - Game Boy Advance (mGBA)",
+      "crc32": "DD8A7104|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/home/dez/Games/ROMs/NDS/Pokemon Mystery Dungeon - Explorers of Sky (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk).nds",
+      "label": "Pokemon Mystery Dungeon - Explorers of Sky (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk)",
+      "core_path": "/home/dez/.local/share/retroarch/cores/desmume_libretro.so",
+      "core_name": "Nintendo - DS (DeSmuME)",
+      "crc32": "64FFB444|crc",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "/home/dez/Games/ROMs/PSP/Kurohyou 2 - Ryu ga Gotoku Ashura Hen (Japan).iso",
+      "label": "Kurohyou 2 - Ryu ga Gotoku Ashura Hen (Japan) (v1.01)",
+      "core_path": "/home/dez/.local/share/retroarch/cores/ppsspp_libretro.so",
+      "core_name": "Sony - PlayStation Portable (PPSSPP)",
+      "crc32": "NPJH-50562|serial",
+      "db_name": "Sony - PlayStation Portable.lpl"
+    },
+    {
+      "path": "/home/dez/Games/ROMs/GBA/Pokemon Unbound.gba",
+      "label": "Pokemon Unbound [Hack by Skeli]",
+      "core_path": "/home/dez/.local/share/retroarch/cores/mgba_libretro.so",
+      "core_name": "Nintendo - Game Boy Advance (mGBA)",
+      "crc32": "4B3D4957|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/home/dez/Games/ROMs/GBA/Fire Emblem - Vision Quest.GBA",
+      "label": "",
+      "core_path": "/home/dez/.local/share/retroarch/cores/mgba_libretro.so",
+      "core_name": "Nintendo - Game Boy Advance (mGBA)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/dez/Games/GBA/ROMs/Pokemon Unbound.gba",
+      "label": "Pokemon Unbound",
+      "core_path": "/home/dez/.local/share/retroarch/cores/mgba_libretro.so",
+      "core_name": "Nintendo - Game Boy Advance (mGBA)",
+      "crc32": "4B3D4957|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/home/dez/Games/GBA/ROMs/Final Fantasy Tactics Advance (USA).gba",
+      "label": "Final Fantasy Tactics Advance (USA)",
+      "core_path": "/home/dez/.local/share/retroarch/cores/mgba_libretro.so",
+      "core_name": "Nintendo - Game Boy Advance (mGBA)",
+      "crc32": "5645E56C|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/home/dez/Games/GBA/ROMs/Dragon Ball Z - Buu's Fury (USA).gba",
+      "label": "Dragon Ball Z - Buu's Fury (USA)",
+      "core_path": "/home/dez/.local/share/retroarch/cores/mgba_libretro.so",
+      "core_name": "Nintendo - Game Boy Advance (mGBA)",
+      "crc32": "01C1707F|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/home/dez/Games/GBA/ROMs/Pokemon Unbound.gba",
+      "label": "Pokemon Unbound",
+      "core_path": "/home/dez/.local/share/retroarch/cores/gpsp_libretro.so",
+      "core_name": "Nintendo - Game Boy Advance (gpSP)",
+      "crc32": "4B3D4957|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/home/dez/Games/GBA/ROMs/Dragon Ball Z - The Legacy of Goku I & II (USA).gba",
+      "label": "2 Games in 1 - Dragon Ball Z - The Legacy of Goku I & II (USA)",
+      "core_path": "/home/dez/.local/share/retroarch/cores/mgba_libretro.so",
+      "core_name": "Nintendo - Game Boy Advance (mGBA)",
+      "crc32": "ACE78C4F|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/mnt/Secondary/Downloads/FF_Downloads/Pokemon - FireRed Version (USA, Europe) (patched).gba",
+      "label": "",
+      "core_path": "/home/dez/.local/share/retroarch/cores/gpsp_libretro.so",
+      "core_name": "Nintendo - Game Boy Advance (gpSP)",
+      "crc32": "",
+      "db_name": ""
+    }
+  ]
+}

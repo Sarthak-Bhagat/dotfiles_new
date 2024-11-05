@@ -1,0 +1,36 @@
+{
+  "version": "1.5",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "thumbnail_match_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "/home/dez/Games/ROMs/PSP/Kurohyou 2 - Ryu ga Gotoku Ashura Hen (Japan).iso",
+      "label": "Kurohyou - Ryu ga Gotoku Ashura Hen",
+      "core_path": "/home/dez/.local/share/retroarch/cores/ppsspp_libretro.so",
+      "core_name": "Sony - PlayStation Portable (PPSSPP)",
+      "crc32": "NPJH-50562|serial",
+      "db_name": "Sony - PlayStation Portable.lpl"
+    },
+    {
+      "path": "/home/dez/Games/ROMs/PSP/Kurohyou - Ryu ga Gotoku Shinshou (Japan).iso",
+      "label": "Kurohyou Ryu ga Gotoku Shinshou",
+      "core_path": "/home/dez/.local/share/retroarch/cores/ppsspp_libretro.so",
+      "core_name": "Sony - PlayStation Portable (PPSSPP)",
+      "crc32": "NPJH-50333|serial",
+      "db_name": "Sony - PlayStation Portable.lpl"
+    },
+    {
+      "path": "/home/dez/Games/ROMs/PSP/Shin Megami Tensei Persona 3 Portable (Mod) [Faz Rank 4].iso",
+      "label": "Shin Megami Tensei - Persona 3 Portable (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "ULUS-10512|serial",
+      "db_name": "Sony - PlayStation Portable.lpl"
+    }
+  ]
+}
