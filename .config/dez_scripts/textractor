@@ -4,7 +4,13 @@ temp_dir=$(mktemp -d)
 # Generate a unique filename
 filename="screenshot_$(date +%Y%m%d_%H%M%S)"
 # Take the screenshot using grimshot
-grimshot save area "$temp_dir/$filename.png"
+if command -v grimshot &> /dev/null; then
+  grimshot save area "$temp_dir/$filename.png"
+elif command -v flameshot &> /dev/null; then
+  flameshot gui -s -p "$temp_dir/$filename.png"
+else
+  exit
+fi
 # Check if the screenshot was successful
 if [ $? -ne 0 ]; then
     echo "Failed to take screenshot. Exiting."

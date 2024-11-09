@@ -1,0 +1,12 @@
+
+general:
+    enable_notifs:
+        scrobble: no
+
+
+fileinfo:
+    whitelist: [/mnt/Secondary/Documents/Media, /home/dez/Documents/Media]
+
+players:
+    monitored: [mpv]
+version: '1.0'

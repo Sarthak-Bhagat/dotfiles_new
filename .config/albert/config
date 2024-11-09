@@ -45,6 +45,9 @@ enabled=false
 [python.duckduckgo]
 enabled=false
 
+[timer]
+enabled=true
+
 [urlhandler]
 enabled=true
 

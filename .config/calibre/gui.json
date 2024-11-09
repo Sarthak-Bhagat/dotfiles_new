@@ -518,7 +518,7 @@
       },
       "index_in_screens_list": 0,
       "manufacturer": "AU Optronics",
-      "model": "0xD1ED",
+      "model": "eDP-1-0xD1ED",
       "name": "eDP-1",
       "serial": "",
       "size_in_logical_pixels": {
@@ -1049,7 +1049,7 @@
     "__value__": "AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAxAAAAAFAQEBAAAAAAAAAAAAAAAAAGT/////AAAAhAAAAAAAAAAFAAAAZAAAAAEAAAAAAAAA+gAAAAEAAAAAAAAAeQAAAAEAAAAAAAAAZAAAAAEAAAAAAAAA1QAAAAEAAAAAAAAD6AAAAAAAAAAAAA=="
   },
   "library_usage_stats": {
-    "/mnt/Secondary/Documents/Calibre": 4
+    "/mnt/Secondary/Documents/Calibre": 6
   },
   "light_palette_name": "",
   "light_palettes": {

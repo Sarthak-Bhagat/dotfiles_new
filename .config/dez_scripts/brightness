@@ -54,6 +54,7 @@ inc_backlight() {
 # Decrease brightness
 dec_backlight() {
 	change=$(scale_brightness)
+  echo $change
 	light -U $change && get_icon && notify_user
 }
 
