@@ -35,7 +35,7 @@
       },
       "index_in_screens_list": 0,
       "manufacturer": "AU Optronics",
-      "model": "0xD1ED",
+      "model": "eDP-1-0xD1ED",
       "name": "eDP-1",
       "serial": "",
       "size_in_logical_pixels": {
@@ -52,7 +52,7 @@
   },
   "main_window_state": {
     "__class__": "bytearray",
-    "__value__": "AAAA/wAAAAH9AAAAAgAAAAAAAAEAAAAC0PwCAAAAAvsAAAAQAHQAbwBjAC0AZABvAGMAawAAAAAAAAAC0AAAAIwA////+wAAABYAcwBlAGEAcgBjAGgALQBkAG8AYwBrAAAAAAD/////AAAAnQD///8AAAABAAAAAAAAAAD8AgAAAAT7AAAAFgBsAG8AbwBrAHUAcAAtAGQAbwBjAGsAAAAAAP////8AAACHAP////sAAAAcAGIAbwBvAGsAbQBhAHIAawBzAC0AZABvAGMAawAAAAAA/////wAAAPgA////+wAAABwAaQBuAHMAcABlAGMAdABvAHIALQBkAG8AYwBrAAAAAAD/////AAAAFQD////7AAAAHgBoAGkAZwBoAGwAaQBnAGgAdABzAC0AZABvAGMAawAAAAAA/////wAAANsA////AAACgAAAAtAAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAAAAAAAAQAAAB4AYQBjAHQAaQBvAG4AcwBfAHQAbwBvAGwAYgBhAHICAAAAAP////8AAAAAAAAAAA=="
+    "__value__": "AAAA/wAAAAH9AAAAAgAAAAAAAAEAAAAC0PwCAAAAAvsAAAAQAHQAbwBjAC0AZABvAGMAawAAAAAAAAAC0AAAAIoA////+wAAABYAcwBlAGEAcgBjAGgALQBkAG8AYwBrAAAAAAD/////AAAAmgD///8AAAABAAAAAAAAAAD8AgAAAAT7AAAAFgBsAG8AbwBrAHUAcAAtAGQAbwBjAGsAAAAAAP////8AAACDAP////sAAAAcAGIAbwBvAGsAbQBhAHIAawBzAC0AZABvAGMAawAAAAAA/////wAAAPIA////+wAAABwAaQBuAHMAcABlAGMAdABvAHIALQBkAG8AYwBrAAAAAAD/////AAAAFAD////7AAAAHgBoAGkAZwBoAGwAaQBnAGgAdABzAC0AZABvAGMAawAAAAAA/////wAAANcA////AAACgAAAAtAAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAAAAAAAAQAAAB4AYQBjAHQAaQBvAG4AcwBfAHQAbwBvAGwAYgBhAHICAAAAAP////8AAAAAAAAAAA=="
   },
   "old_prefs_migrated": true,
   "session_data": {
@@ -65,6 +65,96 @@
       "singleinstance": false
     },
     "standalone_recently_opened": [
+      {
+        "authors": [
+          "Darren Shan"
+        ],
+        "key": "/mnt/Secondary/Documents/Calibre/Darren Shan/Ocean of Blood (1931)/Ocean of Blood - Darren Shan.epub",
+        "pathtoebook": "/mnt/Secondary/Documents/Calibre/Darren Shan/Ocean of Blood (1931)/Ocean of Blood - Darren Shan.epub",
+        "timestamp": "2024-12-30T08:20:45.759Z",
+        "title": "Larten Crepsley #02 - Ocean of Blood"
+      },
+      {
+        "authors": [
+          "Shan, Darren"
+        ],
+        "key": "/mnt/Secondary/Documents/Calibre/Darren Shan/Birth of a Killer (1932)/Birth of a Killer - Darren Shan.epub",
+        "pathtoebook": "/mnt/Secondary/Documents/Calibre/Darren Shan/Birth of a Killer (1932)/Birth of a Killer - Darren Shan.epub",
+        "timestamp": "2024-12-30T08:20:24.267Z",
+        "title": "Birth of a Killer"
+      },
+      {
+        "authors": [
+          "Shan, Darren"
+        ],
+        "key": "/mnt/Secondary/Documents/Calibre/Shan, Darren/Birth of a Killer (1727)/Birth of a Killer - Shan, Darren.epub",
+        "pathtoebook": "/mnt/Secondary/Documents/Calibre/Shan, Darren/Birth of a Killer (1727)/Birth of a Killer - Shan, Darren.epub",
+        "timestamp": "2024-12-30T08:20:20.430Z",
+        "title": "Birth of a Killer"
+      },
+      {
+        "authors": [
+          "wildbow"
+        ],
+        "key": "/mnt/Secondary/Documents/Calibre/Wildbow/Worm (1322)/Worm - Wildbow.epub",
+        "pathtoebook": "/mnt/Secondary/Documents/Calibre/Wildbow/Worm (1322)/Worm - Wildbow.epub",
+        "timestamp": "2024-12-30T08:16:50.686Z",
+        "title": "Worm"
+      },
+      {
+        "authors": [
+          "Christopher Paolini"
+        ],
+        "key": "/mnt/Secondary/Documents/Calibre/Christopher Paolini/To Sleep in a Sea of Stars (1353)/To Sleep in a Sea of Stars - Christopher Paolini.epub",
+        "pathtoebook": "/mnt/Secondary/Documents/Calibre/Christopher Paolini/To Sleep in a Sea of Stars (1353)/To Sleep in a Sea of Stars - Christopher Paolini.epub",
+        "timestamp": "2024-12-30T08:15:48.962Z",
+        "title": "To Sleep in a Sea of Stars"
+      },
+      {
+        "authors": [
+          "Alexandre Dumas; Robin Buss"
+        ],
+        "key": "/mnt/Secondary/Documents/Calibre/Alexandre Dumas/The Count of Monte Cristo (1964)/The Count of Monte Cristo - Alexandre Dumas.epub",
+        "pathtoebook": "/mnt/Secondary/Documents/Calibre/Alexandre Dumas/The Count of Monte Cristo (1964)/The Count of Monte Cristo - Alexandre Dumas.epub",
+        "timestamp": "2024-12-30T08:10:38.857Z",
+        "title": "The Count of Monte Cristo"
+      },
+      {
+        "authors": [
+          "C. L. Clark"
+        ],
+        "key": "/mnt/Secondary/Documents/Calibre/C. L. Clark/The Faithless (1982)/The Faithless - C. L. Clark.epub",
+        "pathtoebook": "/mnt/Secondary/Documents/Calibre/C. L. Clark/The Faithless (1982)/The Faithless - C. L. Clark.epub",
+        "timestamp": "2024-12-30T07:44:17.006Z",
+        "title": "The Faithless"
+      },
+      {
+        "authors": [
+          "Lin Yuan Mu Yu"
+        ],
+        "key": "/home/dez/Downloads/FF_Downloads/The_End_Of_The_Worlds_Poisonous_Mom_And_Monster_Baby.epub",
+        "pathtoebook": "/home/dez/Downloads/FF_Downloads/The_End_Of_The_Worlds_Poisonous_Mom_And_Monster_Baby.epub",
+        "timestamp": "2024-12-30T07:33:21.150Z",
+        "title": "The End Of The World’s Poisonous Mom And Monster Baby"
+      },
+      {
+        "authors": [
+          "William Gibson"
+        ],
+        "key": "/mnt/Secondary/Documents/Calibre/William Gibson/Mona Lisa Overdrive (1504)/Mona Lisa Overdrive - William Gibson.epub",
+        "pathtoebook": "/mnt/Secondary/Documents/Calibre/William Gibson/Mona Lisa Overdrive (1504)/Mona Lisa Overdrive - William Gibson.epub",
+        "timestamp": "2024-12-30T06:38:49.759Z",
+        "title": "Mona Lisa Overdrive"
+      },
+      {
+        "authors": [
+          "wildbow"
+        ],
+        "key": "/mnt/Secondary/Documents/Calibre/Wildbow/Twig (1343)/Twig - Wildbow.epub",
+        "pathtoebook": "/mnt/Secondary/Documents/Calibre/Wildbow/Twig (1343)/Twig - Wildbow.epub",
+        "timestamp": "2024-12-30T06:37:49.858Z",
+        "title": "Twig"
+      },
       {
         "authors": [
           "Allison Saft"

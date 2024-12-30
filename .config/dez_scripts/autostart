@@ -26,9 +26,10 @@ launch kdeconnect-indicator
 launch steam-runtime -silent
 launch albert
 launch variety -n
-launch ~/.config/dez_scripts/statusbar
+# launch ~/.config/dez_scripts/statusbar
 launch betterbird
 launch vesktop
+launch redshift
 
 # Exit the script
 exit 0

@@ -62,14 +62,44 @@
   "notified-version-updates": {
     "__class__": "set",
     "__value__": [
-      "7.20",
-      "7.19",
       "7.18",
-      "7.21"
+      "7.19",
+      "7.21",
+      "7.23",
+      "7.20"
     ]
   },
   "recursive book import root dir dialog": "/home/dez/Documents/Calibre",
+  "s_r_search_mode": 0,
   "sort_history": [
+    [
+      "series",
+      true
+    ],
+    [
+      "title",
+      true
+    ],
+    [
+      "ondevice",
+      true
+    ],
+    [
+      "ondevice",
+      false
+    ],
+    [
+      "ondevice",
+      true
+    ],
+    [
+      "timestamp",
+      false
+    ],
+    [
+      "timestamp",
+      true
+    ],
     [
       "pubdate",
       true

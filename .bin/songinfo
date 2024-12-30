@@ -1,0 +1,45 @@
+#!/bin/bash
+
+# Get the MPD music directory from the ncmpcpp configuration file
+music_dir=$(grep -oP '^mpd_music_dir\s*=\s*\K.+' ~/.config/ncmpcpp/config)
+
+# Check if music directory is found
+if [ -z "$music_dir" ]; then
+    notify-send "Error" "Could not find the music directory in ncmpcpp config."
+    exit 1
+fi
+
+# Get current song file path
+file_path=$(mpc --format "%file%" current)
+if [ -z "$file_path" ]; then
+    notify-send "No song playing" "MPD is not currently playing a track."
+    exit 0
+fi
+
+# Full path to the current song
+full_path="$music_dir/$file_path"
+
+# Song metadata
+song_title=$(mpc --format "%title%" current)
+song_artist=$(mpc --format "%artist%" current)
+song_album=$(mpc --format "%album%" current)
+
+# Extract album art from the file
+thumbnail="/tmp/mpd_thumb.png"
+ffmpeg -y -i "$full_path" -an -vcodec copy "$thumbnail" -loglevel quiet 2>/dev/null
+
+# Construct notification body
+notification_body=""
+if [ -n "$song_artist" ]; then
+    notification_body+="Artist: $song_artist\n"
+fi
+if [ -n "$song_album" ]; then
+    notification_body+="Album: $song_album\n"
+fi
+
+# Send notification with or without album art
+if [ -f "$thumbnail" ]; then
+    notify-send -t 800 -i  "$thumbnail" "$song_title" "$notification_body"
+else
+    notify-send -t 800 "$song_title" "$notification_body"
+fi

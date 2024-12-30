@@ -1,0 +1,37 @@
+# vim: ft=toml
+
+# Fonts
+font-family = "Iosevka Nerd Font"
+font-family-bold = "Iosevka Nerd Font Bold"
+font-size=16
+
+# Theme
+theme = "dez"
+background-opacity = 0.75
+window-height = 30 
+window-width = 105
+# window-decoration = false
+gtk-titlebar = false
+gtk-single-instance = true
+# background-blur-radius = 10 
+cursor-style = "block"
+shell-integration-features = no-cursor
+# shell-integeration=false
+
+# Padding
+# window-padding-x = 10
+# window-padding-y = 10
+
+# Clipboard
+clipboard-read = "ask"
+clipboard-write = "allow"
+clipboard-trim-trailing-spaces = true
+clipboard-paste-protection = false
+copy-on-select=true
+
+# Mouse
+mouse-hide-while-typing = true
+
+# Shell
+command = fish
+confirm-close-surface = true

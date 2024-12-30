@@ -31,7 +31,7 @@ enabled=true
 enabled=true
 
 [python]
-enabled=true
+enabled=false
 
 [python.arch_wiki]
 enabled=true
@@ -44,6 +44,12 @@ enabled=false
 
 [python.duckduckgo]
 enabled=false
+
+[python.syncthing]
+enabled=false
+
+[system]
+enabled=true
 
 [timer]
 enabled=true

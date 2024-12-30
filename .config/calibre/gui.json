@@ -58,6 +58,7 @@
     "__class__": "bytearray",
     "__value__": "AAAA/wAAAAEAAAACAAABAAAAAEYA/////wEAAAABAA=="
   },
+  "bulk-mde-casing-algorithm": "title_case",
   "bulk_metadata_window_tab": 0,
   "card_a_view books view state": {
     "column_alignment": {
@@ -87,22 +88,6 @@
     "last_modified_injected": true,
     "path_injected": true,
     "sort_history": [
-      [
-        "timestamp",
-        false
-      ],
-      [
-        "inlibrary",
-        false
-      ],
-      [
-        "timestamp",
-        false
-      ],
-      [
-        "inlibrary",
-        false
-      ],
       [
         "timestamp",
         false
@@ -172,24 +157,12 @@
       [
         "timestamp",
         false
-      ],
-      [
-        "inlibrary",
-        false
-      ],
-      [
-        "timestamp",
-        false
-      ],
-      [
-        "inlibrary",
-        false
-      ],
-      [
-        "timestamp",
-        false
       ]
     ]
+  },
+  "choose-merge-dialog-splitter-state": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAEAAAACAAABoAAAAQAA/////wEAAAABAA=="
   },
   "color_palette": "dark",
   "cover_grid_color": [
@@ -365,8 +338,8 @@
       },
       "index_in_screens_list": 0,
       "manufacturer": "AU Optronics",
-      "model": "0xD1ED",
-      "name": "eDP-2",
+      "model": "eDP-1-0xD1ED",
+      "name": "eDP-1",
       "serial": "",
       "size_in_logical_pixels": {
         "height": 1080,
@@ -435,26 +408,26 @@
     "frame_geometry": {
       "height": 1030,
       "width": 1850,
-      "x": 23,
+      "x": 0,
       "y": 0
     },
     "full_screened": false,
     "geometry": {
       "height": 1030,
       "width": 1850,
-      "x": 23,
+      "x": 0,
       "y": 0
     },
     "maximized": false,
     "normal_geometry": {
       "height": 1030,
       "width": 1850,
-      "x": 23,
+      "x": 0,
       "y": 0
     },
     "qt": {
       "__class__": "bytearray",
-      "__value__": "AdnQywADAAAAAAAXAAAAAAAAB1AAAAQFAAAAFwAAAAAAAAdQAAAEBQAAAAAAAAAAB4AAAAAXAAAAAAAAB1AAAAQF"
+      "__value__": "AdnQywADAAAAAAAAAAAAAAAABzkAAAQFAAAAAAAAAAAAAAc5AAAEBQAAAAAAAAAAB4AAAAAAAAAAAAAABzkAAAQF"
     },
     "screen": {
       "depth": 32,
@@ -467,8 +440,8 @@
       },
       "index_in_screens_list": 0,
       "manufacturer": "AU Optronics",
-      "model": "0xD1ED",
-      "name": "eDP-2",
+      "model": "eDP-1-0xD1ED",
+      "name": "eDP-1",
       "serial": "",
       "size_in_logical_pixels": {
         "height": 1080,
@@ -571,6 +544,57 @@
       "manufacturer": "AU Optronics",
       "model": "0xD1ED",
       "name": "eDP-2",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 1080,
+        "width": 1920
+      },
+      "virtual_geometry": {
+        "height": 1080,
+        "width": 1920,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "geometry-of-choose-merge-dialog-geometry": {
+    "frame_geometry": {
+      "height": 310,
+      "width": 694,
+      "x": 0,
+      "y": 0
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 310,
+      "width": 694,
+      "x": 0,
+      "y": 0
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 310,
+      "width": 694,
+      "x": 0,
+      "y": 0
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAAAAAAAAAAAArUAAAE1AAAAAAAAAAAAAAK1AAABNQAAAAAAAAAAB4AAAAAAAAAAAAAAArUAAAE1"
+    },
+    "screen": {
+      "depth": 32,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 1080,
+        "width": 1920,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "AU Optronics",
+      "model": "eDP-1-0xD1ED",
+      "name": "eDP-1",
       "serial": "",
       "size_in_logical_pixels": {
         "height": 1080,
@@ -824,8 +848,8 @@
       },
       "index_in_screens_list": 0,
       "manufacturer": "AU Optronics",
-      "model": "0xD1ED",
-      "name": "eDP-2",
+      "model": "eDP-1-0xD1ED",
+      "name": "eDP-1",
       "serial": "",
       "size_in_logical_pixels": {
         "height": 1080,
@@ -875,8 +899,8 @@
       },
       "index_in_screens_list": 0,
       "manufacturer": "AU Optronics",
-      "model": "0xD1ED",
-      "name": "eDP-2",
+      "model": "eDP-1-0xD1ED",
+      "name": "eDP-1",
       "serial": "",
       "size_in_logical_pixels": {
         "height": 1080,
@@ -926,7 +950,58 @@
       },
       "index_in_screens_list": 0,
       "manufacturer": "AU Optronics",
-      "model": "0xD1ED",
+      "model": "eDP-1-0xD1ED",
+      "name": "eDP-1",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 1080,
+        "width": 1920
+      },
+      "virtual_geometry": {
+        "height": 1080,
+        "width": 1920,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "geometry-of-plugin config dialog:Metadata source:Google": {
+    "frame_geometry": {
+      "height": 171,
+      "width": 259,
+      "x": 821,
+      "y": 415
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 171,
+      "width": 259,
+      "x": 821,
+      "y": 415
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 171,
+      "width": 259,
+      "x": 821,
+      "y": 415
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAM1AAABnwAABDcAAAJJAAADNQAAAZ8AAAQ3AAACSQAAAAAAAAAAB4AAAAM1AAABnwAABDcAAAJJ"
+    },
+    "screen": {
+      "depth": 32,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 1080,
+        "width": 1920,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "AU Optronics",
+      "model": "eDP-1-0xD1ED",
       "name": "eDP-1",
       "serial": "",
       "size_in_logical_pixels": {
@@ -977,7 +1052,7 @@
       },
       "index_in_screens_list": 0,
       "manufacturer": "AU Optronics",
-      "model": "0xD1ED",
+      "model": "eDP-1-0xD1ED",
       "name": "eDP-1",
       "serial": "",
       "size_in_logical_pixels": {
@@ -1028,8 +1103,8 @@
       },
       "index_in_screens_list": 0,
       "manufacturer": "AU Optronics",
-      "model": "0xD1ED",
-      "name": "eDP-2",
+      "model": "eDP-1-0xD1ED",
+      "name": "eDP-1",
       "serial": "",
       "size_in_logical_pixels": {
         "height": 1080,
@@ -1049,7 +1124,7 @@
     "__value__": "AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAxAAAAAFAQEBAAAAAAAAAAAAAAAAAGT/////AAAAhAAAAAAAAAAFAAAAZAAAAAEAAAAAAAAA+gAAAAEAAAAAAAAAeQAAAAEAAAAAAAAAZAAAAAEAAAAAAAAA1QAAAAEAAAAAAAAD6AAAAAAAAAAAAA=="
   },
   "library_usage_stats": {
-    "/mnt/Secondary/Documents/Calibre": 6
+    "/mnt/Secondary/Documents/Calibre": 8
   },
   "light_palette_name": "",
   "light_palettes": {
@@ -1138,23 +1213,7 @@
     "sort_history": [
       [
         "inlibrary",
-        false
-      ],
-      [
-        "timestamp",
-        false
-      ],
-      [
-        "inlibrary",
-        false
-      ],
-      [
-        "timestamp",
-        false
-      ],
-      [
-        "inlibrary",
-        false
+        true
       ],
       [
         "timestamp",
@@ -1178,15 +1237,18 @@
     "languages": true,
     "ondevice": true,
     "pubdate": true,
+    "series": true,
+    "timestamp": false,
     "title": true
   },
   "previous_sort_order_DeviceBooksView": {
-    "inlibrary": false
+    "inlibrary": true
   },
   "quick_start_guide_added": true,
   "qv_open_at_shutdown": false,
   "recently_used_languages": [
-    "English"
+    "English",
+    "E"
   ],
   "replace_scene_breaks_history": [
     "",

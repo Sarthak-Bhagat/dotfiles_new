@@ -28,15 +28,30 @@ truncation_symbol = "…/"
 "Downloads" = " "
 "Music" = " "
 "Pictures" = " "
+"Games" = "󱎓 "
+"TV_Shows" = " "
+"Movies" = "󰿏 "
+"Media" = " "
 
 [git_branch]
 symbol = ""
 style = "bg:#394260"
 format = '[[ $symbol $branch ](fg:#769ff0 bg:#394260)]($style)'
-
 [git_status]
 style = "bg:#394260"
 format = '[[($all_status$ahead_behind )](fg:#769ff0 bg:#394260)]($style)'
+
+[time]
+disabled = false
+time_format = "%R"                                      # Hour:Minute Format
+style = "bg:#1d2230"
+format = '[[  $time ](fg:#a0a9cb bg:#1d2230)]($style)'
+
+[python]
+symbol = ""
+style = "bg:#212736"
+format = '[[ $symbol (${virtualenv}) ($version)](fg:#769ff0 bg:#212736)]($style)'
+python_binary = ["python3", "python"]
 
 [nodejs]
 symbol = ""
@@ -57,15 +72,3 @@ format = '[[ $symbol ($version) ](fg:#769ff0 bg:#212736)]($style)'
 symbol = ""
 style = "bg:#212736"
 format = '[[ $symbol ($version) ](fg:#769ff0 bg:#212736)]($style)'
-
-[time]
-disabled = false
-time_format = "%R" # Hour:Minute Format
-style = "bg:#1d2230"
-format = '[[  $time ](fg:#a0a9cb bg:#1d2230)]($style)'
-
-[python]
-symbol = ""
-style = "bg:#4c566a"
-format = '[[ $symbol ($version) (${virtualenv}) ](fg:#8fd4ff bg:#4c566a)]($style)'
-python_binary = ["python3", "python"]

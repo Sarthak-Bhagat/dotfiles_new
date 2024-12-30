@@ -2,7 +2,7 @@
 Categories=Game;
 Comment[en_IN]=A single-player sandbox style space role-playing game with strategic elements
 Comment=A single-player sandbox style space role-playing game with strategic elements
-Exec=bash /home/dez/Games/SSD/Starsector/Kitsunebi.sh
+Exec=bash /home/dez/Games/Starsector/Kitsunebi.sh
 GenericName[en_IN]=Starsector
 GenericName=Starsector
 Icon=/home/dez/Games/Starsector/mikohime/ui/s_icon64.png
