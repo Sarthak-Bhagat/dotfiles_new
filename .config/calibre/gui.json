@@ -1,4 +1,16 @@
 {
+  "CustomProgressBar": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywADAAAAAANDAAABwAAABCgAAAInAAADQwAAAcAAAAQoAAACJwAAAAAAAAAAB4AAAANDAAABwAAABCgAAAIn"
+  },
+  "Generate Cover plugin:cover options dialog": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywADAAAAAAGUAAAATwAABdcAAAOYAAABlAAAAE8AAAXXAAADmAAAAAAAAAAAB4AAAAGUAAAATwAABdcAAAOY"
+  },
+  "Prettify Cover plugin: cover options dialog": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywADAAAAAAJgAAAAngAABQwAAANSAAACYAAAAJ4AAAUMAAADUgAAAAAAAAAAB4AAAAJgAAAAngAABQwAAANS"
+  },
   "action-layout-toolbar": [
     "Add Books",
     "Edit Metadata",
@@ -107,6 +119,46 @@
       [
         "timestamp",
         false
+      ],
+      [
+        "inlibrary",
+        false
+      ],
+      [
+        "timestamp",
+        false
+      ],
+      [
+        "inlibrary",
+        false
+      ],
+      [
+        "timestamp",
+        false
+      ],
+      [
+        "inlibrary",
+        false
+      ],
+      [
+        "timestamp",
+        false
+      ],
+      [
+        "inlibrary",
+        false
+      ],
+      [
+        "timestamp",
+        false
+      ],
+      [
+        "inlibrary",
+        false
+      ],
+      [
+        "timestamp",
+        false
       ]
     ]
   },
@@ -138,6 +190,46 @@
     "last_modified_injected": true,
     "path_injected": true,
     "sort_history": [
+      [
+        "timestamp",
+        false
+      ],
+      [
+        "inlibrary",
+        false
+      ],
+      [
+        "timestamp",
+        false
+      ],
+      [
+        "inlibrary",
+        false
+      ],
+      [
+        "timestamp",
+        false
+      ],
+      [
+        "inlibrary",
+        false
+      ],
+      [
+        "timestamp",
+        false
+      ],
+      [
+        "inlibrary",
+        false
+      ],
+      [
+        "timestamp",
+        false
+      ],
+      [
+        "inlibrary",
+        false
+      ],
       [
         "timestamp",
         false
@@ -612,26 +704,26 @@
     "frame_geometry": {
       "height": 980,
       "width": 1850,
-      "x": 25,
-      "y": 10
+      "x": 0,
+      "y": 0
     },
     "full_screened": false,
     "geometry": {
       "height": 980,
       "width": 1850,
-      "x": 25,
-      "y": 10
+      "x": 0,
+      "y": 0
     },
     "maximized": false,
     "normal_geometry": {
       "height": 980,
       "width": 1850,
-      "x": 25,
-      "y": 10
+      "x": 0,
+      "y": 0
     },
     "qt": {
       "__class__": "bytearray",
-      "__value__": "AdnQywADAAAAAAAZAAAACgAAB1IAAAPdAAAAGQAAAAoAAAdSAAAD3QAAAAAAAAAAB4AAAAAZAAAACgAAB1IAAAPd"
+      "__value__": "AdnQywADAAAAAAAAAAAAAAAABzkAAAPTAAAAAAAAAAAAAAc5AAAD0wAAAAAAAAAAB4AAAAAAAAAAAAAABzkAAAPT"
     },
     "screen": {
       "depth": 32,
@@ -644,8 +736,8 @@
       },
       "index_in_screens_list": 0,
       "manufacturer": "AU Optronics",
-      "model": "0xD1ED",
-      "name": "eDP-2",
+      "model": "eDP-1-0xD1ED",
+      "name": "eDP-1",
       "serial": "",
       "size_in_logical_pixels": {
         "height": 1080,
@@ -695,8 +787,8 @@
       },
       "index_in_screens_list": 0,
       "manufacturer": "AU Optronics",
-      "model": "0xD1ED",
-      "name": "eDP-2",
+      "model": "eDP-1-0xD1ED",
+      "name": "eDP-1",
       "serial": "",
       "size_in_logical_pixels": {
         "height": 1080,
@@ -1016,6 +1108,57 @@
       }
     }
   },
+  "geometry-of-plugin config dialog:User interface action:Generate Cover": {
+    "frame_geometry": {
+      "height": 273,
+      "width": 309,
+      "x": 796,
+      "y": 364
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 273,
+      "width": 309,
+      "x": 796,
+      "y": 364
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 273,
+      "width": 309,
+      "x": 796,
+      "y": 364
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAMcAAABbAAABFAAAAJ8AAADHAAAAWwAAARQAAACfAAAAAAAAAAAB4AAAAMcAAABbAAABFAAAAJ8"
+    },
+    "screen": {
+      "depth": 32,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 1080,
+        "width": 1920,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "AU Optronics",
+      "model": "eDP-1-0xD1ED",
+      "name": "eDP-1",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 1080,
+        "width": 1920
+      },
+      "virtual_geometry": {
+        "height": 1080,
+        "width": 1920,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
   "geometry-of-preferences dialog geometry": {
     "frame_geometry": {
       "height": 1080,
@@ -1124,7 +1267,7 @@
     "__value__": "AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAxAAAAAFAQEBAAAAAAAAAAAAAAAAAGT/////AAAAhAAAAAAAAAAFAAAAZAAAAAEAAAAAAAAA+gAAAAEAAAAAAAAAeQAAAAEAAAAAAAAAZAAAAAEAAAAAAAAA1QAAAAEAAAAAAAAD6AAAAAAAAAAAAA=="
   },
   "library_usage_stats": {
-    "/mnt/Secondary/Documents/Calibre": 8
+    "/mnt/Secondary/Documents/Calibre": 14
   },
   "light_palette_name": "",
   "light_palettes": {
@@ -1214,6 +1357,46 @@
       [
         "inlibrary",
         true
+      ],
+      [
+        "timestamp",
+        false
+      ],
+      [
+        "inlibrary",
+        false
+      ],
+      [
+        "timestamp",
+        false
+      ],
+      [
+        "inlibrary",
+        false
+      ],
+      [
+        "timestamp",
+        false
+      ],
+      [
+        "inlibrary",
+        false
+      ],
+      [
+        "timestamp",
+        false
+      ],
+      [
+        "inlibrary",
+        false
+      ],
+      [
+        "timestamp",
+        false
+      ],
+      [
+        "inlibrary",
+        false
       ],
       [
         "timestamp",

@@ -82,6 +82,9 @@
     "{Current Cover}",
     "{Default Image}"
   ],
+  "OtherOptions": {
+    "autoSave": false
+  },
   "SavedSettings": {
     "{Default}": {
       "backgroundImage": false,

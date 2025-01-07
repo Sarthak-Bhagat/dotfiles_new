@@ -7,5 +7,9 @@
 		<string>/mnt/Secondary/Documents/Calibre</string>
 		<string>/mnt/Secondary/Documents/Calibree</string>
 	</array>
+	<key>lineedit_history_xpath_edit_opt_level1_toc</key>
+	<array/>
+	<key>lineedit_history_xpath_edit_opt_level2_toc</key>
+	<array/>
 </dict>
 </plist>

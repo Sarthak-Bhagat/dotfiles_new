@@ -2,27 +2,27 @@
   "geometry-of-main_window_geometry": {
     "frame_geometry": {
       "height": 720,
-      "width": 640,
+      "width": 902,
       "x": 0,
       "y": 0
     },
     "full_screened": false,
     "geometry": {
       "height": 720,
-      "width": 640,
+      "width": 902,
       "x": 0,
       "y": 0
     },
     "maximized": false,
     "normal_geometry": {
       "height": 720,
-      "width": 640,
+      "width": 902,
       "x": 0,
       "y": 0
     },
     "qt": {
       "__class__": "bytearray",
-      "__value__": "AdnQywADAAAAAAAAAAAAAAAAAn8AAALPAAAAAAAAAAAAAAJ/AAACzwAAAAAAAAAAB4AAAAAAAAAAAAAAAn8AAALP"
+      "__value__": "AdnQywADAAAAAAAAAAAAAAAAA4UAAALPAAAAAAAAAAAAAAOFAAACzwAAAAAAAAAAB4AAAAAAAAAAAAAAA4UAAALP"
     },
     "screen": {
       "depth": 32,
@@ -52,7 +52,7 @@
   },
   "main_window_state": {
     "__class__": "bytearray",
-    "__value__": "AAAA/wAAAAH9AAAAAgAAAAAAAAEAAAAC0PwCAAAAAvsAAAAQAHQAbwBjAC0AZABvAGMAawAAAAAAAAAC0AAAAIoA////+wAAABYAcwBlAGEAcgBjAGgALQBkAG8AYwBrAAAAAAD/////AAAAmgD///8AAAABAAAAAAAAAAD8AgAAAAT7AAAAFgBsAG8AbwBrAHUAcAAtAGQAbwBjAGsAAAAAAP////8AAACDAP////sAAAAcAGIAbwBvAGsAbQBhAHIAawBzAC0AZABvAGMAawAAAAAA/////wAAAPIA////+wAAABwAaQBuAHMAcABlAGMAdABvAHIALQBkAG8AYwBrAAAAAAD/////AAAAFAD////7AAAAHgBoAGkAZwBoAGwAaQBnAGgAdABzAC0AZABvAGMAawAAAAAA/////wAAANcA////AAACgAAAAtAAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAAAAAAAAQAAAB4AYQBjAHQAaQBvAG4AcwBfAHQAbwBvAGwAYgBhAHICAAAAAP////8AAAAAAAAAAA=="
+    "__value__": "AAAA/wAAAAH9AAAAAgAAAAAAAAEAAAAC0PwCAAAAAvsAAAAQAHQAbwBjAC0AZABvAGMAawEAAAAAAAAC0AAAAIoA////+wAAABYAcwBlAGEAcgBjAGgALQBkAG8AYwBrAAAAAAD/////AAAAmgD///8AAAABAAAAAAAAAAD8AgAAAAT7AAAAFgBsAG8AbwBrAHUAcAAtAGQAbwBjAGsAAAAAAP////8AAACDAP////sAAAAcAGIAbwBvAGsAbQBhAHIAawBzAC0AZABvAGMAawAAAAAA/////wAAAPIA////+wAAABwAaQBuAHMAcABlAGMAdABvAHIALQBkAG8AYwBrAAAAAAD/////AAAAFAD////7AAAAHgBoAGkAZwBoAGwAaQBnAGgAdABzAC0AZABvAGMAawAAAAAA/////wAAANcA////AAACgAAAAtAAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAAAAAAAAQAAAB4AYQBjAHQAaQBvAG4AcwBfAHQAbwBvAGwAYgBhAHICAAAAAP////8AAAAAAAAAAA=="
   },
   "old_prefs_migrated": true,
   "session_data": {
@@ -65,6 +65,33 @@
       "singleinstance": false
     },
     "standalone_recently_opened": [
+      {
+        "authors": [
+          "TheGodReader"
+        ],
+        "key": "/mnt/Secondary/Documents/Calibre/TheGodReader/My Golden Core is a Star, do you call this cultivating_ (1991)/My Golden Core is a Star, do you call this - TheGodReader.epub",
+        "pathtoebook": "/mnt/Secondary/Documents/Calibre/TheGodReader/My Golden Core is a Star, do you call this cultivating_ (1991)/My Golden Core is a Star, do you call this - TheGodReader.epub",
+        "timestamp": "2025-01-05T16:18:44.368Z",
+        "title": "My Golden Core is a Star, do you call this cultivating?"
+      },
+      {
+        "authors": [
+          "<unknown>"
+        ],
+        "key": "/home/dez/Downloads/FF_Downloads/One_Planet_for_Everyone_Building_Science_and_Technology_Civilization_at_the_Beginning.epub",
+        "pathtoebook": "/home/dez/Downloads/FF_Downloads/One_Planet_for_Everyone_Building_Science_and_Technology_Civilization_at_the_Beginning.epub",
+        "timestamp": "2025-01-05T14:34:15.514Z",
+        "title": "One Planet for Everyone: Building Science and Technology Civilization at the Beginning"
+      },
+      {
+        "authors": [
+          "夕夕犬"
+        ],
+        "key": "/mnt/Secondary/Documents/Calibre/Xi Xi Quan/There's Absolutely No Problem With The Magic Cards I Made! (1994)/There's Absolutely No Problem With The Mag - Xi Xi Quan.epub",
+        "pathtoebook": "/mnt/Secondary/Documents/Calibre/Xi Xi Quan/There's Absolutely No Problem With The Magic Cards I Made! (1994)/There's Absolutely No Problem With The Mag - Xi Xi Quan.epub",
+        "timestamp": "2025-01-05T13:43:22.073Z",
+        "title": "There’s Absolutely No Problem With The Magic Cards I Made!"
+      },
       {
         "authors": [
           "Darren Shan"
