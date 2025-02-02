@@ -21,6 +21,7 @@ sonarr:
     base_url: http://localhost:8989
     api_key: f2332f2442d94d86a6170ca71468e266
 
+    delete_old_custom_formats: true
     include:
       - template: sonarr-quality-definition-series
       - template: sonarr-v4-quality-profile-web-1080p
@@ -79,7 +80,7 @@ sonarr:
           - 418f50b10f1907201b6cfdf881f467b7 # Anime Dual Audio
           - 9c14d194486c4014d422adc64092d794 # Dubs Only
           - 07a32f77690263bb9fda1842db7e273f # VOSTFR
-        quality_profiles:
+        assign_scores_to:
           - name: Anime
       - trash_ids:
           - 85c61753df5da1fb2aab6f2a47426b09 # BR-DISK
@@ -114,7 +115,7 @@ sonarr:
           - 58790d4e2fdcd9733aa7ae68ba2bb503 # WEB Tier 02
           - d84935abd3f8556dcd51d4f27e22d0a6 # WEB Tier 03
           - d0c516558625b04b363fa6c5c2c7cfd4 # WEB Scene
-        quality_profiles:
+        assign_scores_to:
           - name: WEB-1080p
 
 # Configuration specific to Radarr.
@@ -122,7 +123,7 @@ radarr:
   movies:
     # Set the URL/API Key to your actual instance
     base_url: http://localhost:7878
-    api_key: YOUR_KEY_HERE
+    api_key: 877a49faaca54a9bb2f9867e99e2e134
 
     # Which quality definition in the guide to sync to Radarr. Only choice right now is 'movie'
     quality_definition:
@@ -131,6 +132,7 @@ radarr:
     # Set to 'true' to automatically remove custom formats from Radarr when they are removed from
     # the guide or your configuration. This will NEVER delete custom formats you manually created!
     delete_old_custom_formats: true
+    replace_existing_custom_formats: true
 
     custom_formats:
       # A list of custom formats to sync to Radarr.

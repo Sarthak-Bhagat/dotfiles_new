@@ -56,6 +56,9 @@
     "Generate Cover",
     "Prettify Cover"
   ],
+  "ask_to_manage_device": [
+    "77E312982683289AFFF9BFBE6DC3548D"
+  ],
   "auto_convert_same_fmt": true,
   "automerge": "overwrite",
   "basic_metadata_widget_splitter_state": {
@@ -127,38 +130,6 @@
       [
         "timestamp",
         false
-      ],
-      [
-        "inlibrary",
-        false
-      ],
-      [
-        "timestamp",
-        false
-      ],
-      [
-        "inlibrary",
-        false
-      ],
-      [
-        "timestamp",
-        false
-      ],
-      [
-        "inlibrary",
-        false
-      ],
-      [
-        "timestamp",
-        false
-      ],
-      [
-        "inlibrary",
-        false
-      ],
-      [
-        "timestamp",
-        false
       ]
     ]
   },
@@ -190,38 +161,6 @@
     "last_modified_injected": true,
     "path_injected": true,
     "sort_history": [
-      [
-        "timestamp",
-        false
-      ],
-      [
-        "inlibrary",
-        false
-      ],
-      [
-        "timestamp",
-        false
-      ],
-      [
-        "inlibrary",
-        false
-      ],
-      [
-        "timestamp",
-        false
-      ],
-      [
-        "inlibrary",
-        false
-      ],
-      [
-        "timestamp",
-        false
-      ],
-      [
-        "inlibrary",
-        false
-      ],
       [
         "timestamp",
         false
@@ -1261,13 +1200,66 @@
       }
     }
   },
+  "geometry-of-template_editor_dialog_geometry": {
+    "frame_geometry": {
+      "height": 454,
+      "width": 651,
+      "x": 42,
+      "y": 33
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 454,
+      "width": 651,
+      "x": 42,
+      "y": 33
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 454,
+      "width": 651,
+      "x": 42,
+      "y": 33
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAAqAAAAIQAAArQAAAHmAAAAKgAAACEAAAK0AAAB5gAAAAAAAAAAB4AAAAAqAAAAIQAAArQAAAHm"
+    },
+    "screen": {
+      "depth": 32,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 1080,
+        "width": 1920,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "AU Optronics",
+      "model": "eDP-1-0xD1ED",
+      "name": "eDP-1",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 1080,
+        "width": 1920
+      },
+      "virtual_geometry": {
+        "height": 1080,
+        "width": 1920,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "gpm_template_editor_font": "Noto Sans",
+  "gpm_template_editor_word_wrap_mode": true,
   "grid view visible": false,
   "jobs view column layout3": {
     "__class__": "bytearray",
-    "__value__": "AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAxAAAAAFAQEBAAAAAAAAAAAAAAAAAGT/////AAAAhAAAAAAAAAAFAAAAZAAAAAEAAAAAAAAA+gAAAAEAAAAAAAAAeQAAAAEAAAAAAAAAZAAAAAEAAAAAAAAA1QAAAAEAAAAAAAAD6AAAAAAAAAAAAA=="
+    "__value__": "AAAA/wAAAAAAAAABAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAxAAAAAFAQEBAAAAAAAAAAAAAAAAAGT/////AAAAhAAAAAAAAAAFAAAAZAAAAAEAAAAAAAAA+gAAAAEAAAAAAAAAeQAAAAEAAAAAAAAAZAAAAAEAAAAAAAAA1QAAAAEAAAAAAAAD6AAAAAAAAAAAAA=="
   },
   "library_usage_stats": {
-    "/mnt/Secondary/Documents/Calibre": 14
+    "/mnt/Secondary/Documents/Calibre": 22
   },
   "light_palette_name": "",
   "light_palettes": {
@@ -1377,38 +1369,6 @@
       [
         "timestamp",
         false
-      ],
-      [
-        "inlibrary",
-        false
-      ],
-      [
-        "timestamp",
-        false
-      ],
-      [
-        "inlibrary",
-        false
-      ],
-      [
-        "timestamp",
-        false
-      ],
-      [
-        "inlibrary",
-        false
-      ],
-      [
-        "timestamp",
-        false
-      ],
-      [
-        "inlibrary",
-        false
-      ],
-      [
-        "timestamp",
-        false
       ]
     ]
   },
@@ -1454,5 +1414,10 @@
     "2": 3,
     "3": 4,
     "4": 0
-  }
+  },
+  "template_editor_table_widths": [
+    80,
+    41,
+    464
+  ]
 }

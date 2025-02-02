@@ -16,7 +16,7 @@ launch() {
 }
 
 # Start Nvidia Card
-nvx on
+# nvx on
 
 # Launch applications
 launch qbittorrent

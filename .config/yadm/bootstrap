@@ -4,10 +4,10 @@
 install_nvidia() {
     echo "Installing Nvidia drivers and utilities..."
     sudo pacman -S --noconfirm --needed nvidia-dkms nvidia-settings nvidia-utils lib32-nvidia-utils lib32-opencl-nvidia opencl-nvidia libvdpau lib32-libvdpau libxnvctrl vulkan-icd-loader lib32-vulkan-icd-loader vkd3d lib32-vkd3d opencl-headers opencl-clhpp vulkan-validation-layers lib32-vulkan-validation-layers
-    
+
     echo "Opening Arch Wiki for Nvidia Wayland support information..."
     xdg-open "https://wiki.archlinux.org/title/User:SilentGamePLS#Wayland_support_will_work_fine_if_you_have_an_NVIDIA_RTX_20/30/40_series_GPU's._There_might_be_issues_on_GTX_10_GPU's_and_below:"
-    
+
     echo "Setting up Nvidia hook..."
     sudo mkdir -p /etc/pacman.d/hooks/
     sudo mv $HOME/.config/nvidia.hook /etc/pacman.d/hooks/
@@ -27,7 +27,7 @@ install_paru() {
 # Function to install additional packages
 install_packages() {
     echo "Installing additional packages..."
-    paru -S --needed --noconfirm sonarr-develop radarr-develop jackett-bin flaresolverr-bin neovim neovide mpv mpc mpd vesktop steam protonup-qt lutris qbittorrent keepassxc kitty nwg-look-bin nemo sqlitebrowser stacer-bin qt5ct qt6ct calibre jdownloader2 gamemode gamescope grimshot
+    paru -S --needed --noconfirm bazarr-beta recyclarr-bin sonarr-develop radarr-develop jackett-bin flaresolverr-bin neovim neovide mpv mpc mpd vesktop steam protonup-qt lutris qbittorrent keepassxc kitty nwg-look-bin nemo sqlitebrowser stacer-bin qt5ct qt6ct calibre jdownloader2 gamemode gamescope flameshot
 }
 
 # Main script
@@ -55,6 +55,7 @@ sudo systemctl enable --now sonarr
 sudo systemctl enable --now radarr
 sudo systemctl enable --now jackett
 sudo systemctl enable --now flaresolverr
+sudo cp .config/hooks/restart_arr.hook /usr/share/libalpm/hooks/
 sudo cp $HOME/.config/dnscrypt-proxy/dnscrypt-proxy.toml /etc/dnscrypt-proxy/dnscrypt-proxy.toml
 sudo systemctl enable --now dnscrypt-proxy
 

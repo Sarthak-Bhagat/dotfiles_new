@@ -15,6 +15,14 @@
       "core_name": "Nintendo - Game Boy Advance (mGBA)",
       "crc32": "BA5DE047|crc",
       "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/home/dez/Games/ROMs/GBA/Pokemon Unbound.gba",
+      "label": "Pokemon Unbound",
+      "core_path": "/home/dez/.local/share/retroarch/cores/mgba_libretro.so",
+      "core_name": "Nintendo - Game Boy Advance (mGBA)",
+      "crc32": "4B3D4957|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
     }
   ]
 }
