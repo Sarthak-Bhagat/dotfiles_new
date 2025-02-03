@@ -28,5 +28,6 @@
 	directory = /mnt/Secondary/Documents/git/codeburg/screenshot_compress
 	directory = /mnt/Secondary/Documents/git/dotfiles
 	directory = /mnt/Secondary/Documents/git/qbittorrent_dualboot
+	directory = /mnt/Windows/Games/Cassette Beasts/AA/HoneySelect
 [push]
 	autoSetupRemote = true
